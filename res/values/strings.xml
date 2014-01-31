@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Resolution Tracker</string>
+    <string name="resolution">Edit Resolution</string>
+    <string name="background">Change Background</string>
+    <string name="enter_resolution">Enter your resolution</string>
+    <string name="ok">OK</string>
+    <string name="set_clock">Set Clock</string>
+    <string name="enter_clock">Enter number of days on the clock</string>
+    <string name="Default">Default</string>
+    <string name="white">White</string>
+    <string name="pink">Pink</string>
+    <string name="motivation">Set Motivational Quote</string>
+    <string name="motivation_hint">Enter your motivational quote</string>
+    <string name="frequency"> Enter motivational frequency</string>
+
+</resources>
